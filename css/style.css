@@ -16,11 +16,11 @@ div.app-thumbnail {
 }
 
 hr { display: block; height: 1px;
- border: 0; border-top: 1px solid #EC1B23;
+ border: 0; border-top: 1px solid #2CA5E0;
  margin: 1em 0; padding: 0; } 
 
  .petrosino {
-  color: #EC1B23 !important;
+  color: #2CA5E0 !important;
 }
 
 .highlight {
@@ -45,19 +45,19 @@ ul.share-buttons li{
 }
 
 ul.nav li a, ul.nav li a:visited {
-    color: #EC1B23 !important;
+    color: #2CA5E0 !important;
 }
 
 ul.nav li a:hover, ul.nav li a:active {
-    color: #EC1B23 !important;
+    color: #2CA5E0 !important;
 }
 
 ul.nav li.active a {
-    color: #EC1B23 !important;
+    color: #2CA5E0 !important;
 }
 
 a {
-    color: #EC1B23 !important;
+    color: #2CA5E0 !important;
 }
 
 /* rimosso momentaneamente export tool */
